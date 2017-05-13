@@ -1,0 +1,18 @@
+(:root-dir "/Users/raghu/Projects/stash/users/rsrinivasan/helloworld"
+:cache-dir "/Users/raghu/Projects/stash/users/rsrinivasan/helloworld/.ensime_cache.d"
+:name "helloworld"
+:java-home "/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home"
+:scala-version "2.11.7"
+:subprojects ((:name "helloworld"
+:source-roots ("/Users/raghu/Projects/stash/users/rsrinivasan/helloworld/src/main/resources" "/Users/raghu/Projects/stash/users/rsrinivasan/helloworld/src/main/java" "/Users/raghu/Projects/stash/users/rsrinivasan/helloworld/src/test/resources" "/Users/raghu/Projects/stash/users/rsrinivasan/helloworld/src/test/java")
+:target "/Users/raghu/Projects/stash/users/rsrinivasan/helloworld/build/classes/main"
+:test-target "/Users/raghu/Projects/stash/users/rsrinivasan/helloworld/build/classes/test"
+:depends-on-modules ()
+:compile-deps ()
+:test-deps ("/Users/raghu/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/4e031bb61df09069aeb2bffb4019e7a5034a4ee0/junit-4.11.jar" "/Users/raghu/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar")) (:name "test"
+:source-roots ("/Users/raghu/Projects/stash/users/rsrinivasan/helloworld/test/src/main/resources" "/Users/raghu/Projects/stash/users/rsrinivasan/helloworld/test/src/main/java" "/Users/raghu/Projects/stash/users/rsrinivasan/helloworld/test/src/test/resources" "/Users/raghu/Projects/stash/users/rsrinivasan/helloworld/test/src/test/java")
+:target "/Users/raghu/Projects/stash/users/rsrinivasan/helloworld/test/build/classes/main"
+:test-target "/Users/raghu/Projects/stash/users/rsrinivasan/helloworld/test/build/classes/test"
+:depends-on-modules ()
+:compile-deps ()
+:test-deps ("/Users/raghu/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/4e031bb61df09069aeb2bffb4019e7a5034a4ee0/junit-4.11.jar" "/Users/raghu/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"))))
